@@ -1,12 +1,12 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/ayorich/ayorich/master/wave.gif" width="30px">
 
-<a href="#"><img src="https://raw.githubusercontent.com/ayorich/ayorich/master/remotecode.gif"  height="400px" width="100%" ></a>
+<a href="#"><img src="https://raw.githubusercontent.com/ayorich/ayorich/master/remotecode.gif" width="100%" ></a>
 
 <!-- ![wallpaper](https://raw.githubusercontent.com/ayorich/ayorich/master/remotecode.gif) -->
 
 ---
 
-### ✨✨ I'm Ayodele kayode, and I'm a Full-Stack developer who likes to work with JavaScript/Typescript✨✨
+### ✨✨ I'm Ayodele kayode, and I'm a Full-Stack developer who likes to work with JavaScript/Typescript ✨✨
 
 I'm very passionate about my work and I'm looking to learning and collaborating with teams to building great solutions that solves real problems.
 
