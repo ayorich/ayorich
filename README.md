@@ -1,21 +1,23 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/ayorich/ayorich/master/wave.gif" width="30px">
 
-<a href="#"><img src="https://raw.githubusercontent.com/ayorich/ayorich/master/remotecode.gif" width="100%" ></a>
-
-<!-- ![wallpaper](https://raw.githubusercontent.com/ayorich/ayorich/master/remotecode.gif) -->
+<a href="#"><img src="https://raw.githubusercontent.com/ayorich/ayorich/master/remotecode.gif" width="100%" height="300" ></a>
 
 ---
 
-### ✨✨ I'm Ayodele kayode, and I'm a Full-Stack developer who likes to work with JavaScript/Typescript ✨✨
+### ✨ I'm Ayodele kayode, and I'm a Full-Stack developer who likes to work with JavaScript/Typescript ✨
 
 I'm very passionate about my work and I'm looking to learning and collaborating with teams to building great solutions that solves real problems.
 
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayoemma-51b561139/)](https://www.linkedin.com/in/ayoemma-51b561139/)
+[![Instagram Badge](https://img.shields.io/badge/ay0rich%20-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ay0rich/)](https://www.instagram.com/ay0rich/)
+[![Twitter Badge](https://img.shields.io/badge/Hayo_man%20-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/Hayo_man)](https://twitter.com/Hayo_man)
+[![Gmail Badge](https://img.shields.io/badge/-kayodele17@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kayodele17@gmail.com)](mailto:kayodele17@gmail.com)
 
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
+<!-- <img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/Hayo_man%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/Hayo_man"/> -->
+<!-- <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> -->
 
 ## ⚡ Technologies
 
@@ -48,7 +50,7 @@ Find out more about me & feel free to connect with me here:
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ayorich&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ayorich&count_private=true&show_icons=true&hide=contribs&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayorich&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ayorich.ayorich)
