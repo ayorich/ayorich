@@ -27,37 +27,38 @@ Find out more about me & feel free to connect with me here:
 
 <!-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) -->
 
-### ⚡ Frameworks
+### ⚡ Frameworks/Libraries
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Express.js](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![React Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
-
 ![ant-design](https://img.shields.io/badge/-Ant%20Design-%230170FE?&style=flat-square&logo=ant-design&logoColor=white)
+
 ![Material UI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=flat-square&logo=material-ui&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat-square&logo=redux&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=flat-square&logo=jquery&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=flat-square&logo=nestjs&logoColor=white)
 ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?&style=flat-square)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 
 ### Design
 
 ![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white)
 
-### ⚡ Version Control
+### 🌟 Version Control
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white)
 
-### ⚡ Hosting/SaaS
+### ✅ Hosting/SaaS
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=flat-square&logo=google-cloud&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=flat-square&logo=heroku&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=flat-square&logo=digitalOcean&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=flat-square&logo=firebase)
 
-### ⚡ Databases
+### 🚀 Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)
 
@@ -72,8 +73,4 @@ Find out more about me & feel free to connect with me here:
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ayorich.ayorich)
 
-<!-- ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?&style=flat-square)
-![ant-design](https://img.shields.io/badge/-Ant%20Design-%230170FE?&style=flat-square&logo=ant-design&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)(Query Language)
-
-Testing Library jest mocha Jasmine selenium -->
+<!-- Testing Library jest mocha Jasmine selenium --> -->
