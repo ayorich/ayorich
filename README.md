@@ -68,9 +68,10 @@ Find out more about me & feel free to connect with me here:
 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ayorich&count_private=true&show_icons=true&hide=contribs&include_all_commits=true)
+<!--
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ayorich&count_private=true&show_icons=true&hide=contribs&include_all_commits=true) -->
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ayorich&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayorich&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ayorich.ayorich)
-
-<!-- Testing Library jest mocha Jasmine selenium --> -->
