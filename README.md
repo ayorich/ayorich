@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/ayorich/ayorich/master/wave.gif" width="30px">
+## Fancy seeing you here! <img src="https://raw.githubusercontent.com/ayorich/ayorich/master/wave.gif" width="30px" height="30px">
 
 <a href="#"><img src="https://raw.githubusercontent.com/ayorich/ayorich/master/remotecode.gif" width="100%" height="300" ></a>
 
