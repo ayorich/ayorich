@@ -49,9 +49,9 @@ Find out more about me & feel free to connect with me here:
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
 
 
-### Design
+<!-- ### Design -->
 
-![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white)
+<!-- ![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white) -->
 
 ### 🌟 Version Control
 
