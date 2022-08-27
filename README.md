@@ -10,7 +10,7 @@ I'm very passionate about my work and I'm looking to learning and collaborating 
 
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayoemma-51b561139/)](https://www.linkedin.com/in/ayoemma-51b561139/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayo-emma/)](https://www.linkedin.com/in/ayo-emma/)
 [![Instagram Badge](https://img.shields.io/badge/ay0rich%20-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ay0rich/)](https://www.instagram.com/ay0rich/)
 [![Twitter Badge](https://img.shields.io/badge/Hayo_man%20-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/Hayo_man)](https://twitter.com/Hayo_man)
 [![Gmail Badge](https://img.shields.io/badge/-kayodele17@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kayodele17@gmail.com)](mailto:kayodele17@gmail.com)
